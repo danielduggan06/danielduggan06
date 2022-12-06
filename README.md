@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dan Duggan
-- 🌱 I’m currently learning HTML\CSS and studying for my CCNA and AWS Cloud Solutions Architect Associate
+- 🌱 I’m currently studying for my CCNA and AZ-104 Certification, while working as network technician for a non-profit in San Antonio, TX.  
 - 💞️ Not sure what I'm looking to collaborate on 
 - 📫 You can reach me at daniel.duggan06@gmail.com
 
