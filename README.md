@@ -1,5 +1,6 @@
 - Hi, I’m Dan Duggan
-- I’m currently studying for my AZ-104 Certification, while working as an IT Security Operations Analyst in San Antonio, TX.
-- I am also trying to learn Python and have been looking into projects to create
-- Not sure what I'm looking to collaborate on
+- I’m currently studying for my AZ-104 Certification, while working as an IT Security Operations Analyst at Citibank.
+- I've enrolled in a program to receive my Master's degree in Cybersecurity and Information Security.
+- I am also trying to learn Python and have been looking into projects to create.
+- Take a look at my personal website: dugganco.com
 - You can reach me at daniel.duggan06@gmail.com
