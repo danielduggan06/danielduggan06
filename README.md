@@ -1,6 +1,6 @@
 - Hi, I’m Dan Duggan
 - I’m currently studying for my AZ-104 Certification, while working as an IT Security Operations Analyst at Citibank.
 - I've enrolled in a program to receive my Master's degree in Cybersecurity and Information Security.
-- I am also trying to learn Python and have been looking into projects to create.
+- I am currently trying to learn multiple different languages, but taking a project/solutions-based approach instead of focusing on one specific language.
 - Take a look at my personal website: dugganco.com
 - You can reach me at daniel.duggan06@gmail.com
